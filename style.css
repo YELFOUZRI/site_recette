@@ -78,7 +78,7 @@ div.info {
 
 img.info {
   display: block;
-  max-height: 400px;
+  max-height: 600px;
   object-fit: cover;
   min-height: 200px;
   background-color: lightgray;
